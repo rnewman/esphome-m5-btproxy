@@ -1,5 +1,5 @@
 substitutions:
-  board: esp32-c6-devkitm-1
+  board: esp32-c6-devkitc-1
   variant: esp32c6
   flash_size: 4MB
 
