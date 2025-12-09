@@ -9,8 +9,8 @@ esphome:
   friendly_name: ${friendly_name}
   comment: ${device_description}
   project:
-    name: yoziru.esphome-m5-btproxy
-    version: "2024.8.0"
+    name: rnewman.esphome-m5-btproxy
+    version: "2025.12.0"
 
 packages:
   board: !include board.yml
